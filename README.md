@@ -52,44 +52,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AjayUpadhyay&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayUpadhyay&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AjayUpadhyay&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AjayUpadhyay&theme=onestar&no-frame=true&column=6&margin-w=8" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AjayUpadhyay/AjayUpadhyay/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AjayUpadhyay&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
